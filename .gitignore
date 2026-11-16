@@ -1,0 +1,5 @@
+**/bin/
+**/obj/
+data/
+output/
+.DS_Store
