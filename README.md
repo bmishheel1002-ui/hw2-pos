@@ -1,4 +1,4 @@
-# POS - Homework 2
+# POS - Homework 2 submission
 
 POS is a C#/.NET 10 console application for recording teacher evaluations of students.
 It stores data in JSON files and exports current final grades to CSV.
